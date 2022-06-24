@@ -1,6 +1,27 @@
 body {
-background-color: burlywood;
-font-size: large;
+background-color:brown;
 text-align: center;
+font-style:oblique;
+}
+
+h1 {
+background-color:blue;
+color:darkkhaki
+}
+p {
+color:darkkhaki;
+}
+h2 {
+background-color:blue;
+color:darkkhaki
+}
+ul{
+color:darkgoldenrod;
+display:flex;
+justify-content: space-between;
+font-size:larger
+}
+a {
 text-decoration: underline;
+color: coral;
 }
